@@ -62,7 +62,7 @@ function App() {
                   <p className="text-center">promo</p>
                   <p className="text-center text-3xl font-bold">WELCOMEX5</p>
                 </div>
-                <div className="flex w-full rounded-xl bg-purple-500/40 text-white shadow-lg overflow-hidden py-1 px-4 items-center gap-4">
+                <div className="flex w-full rounded-xl justify-center bg-purple-500/40 text-white shadow-lg overflow-hidden py-1 px-4 items-center gap-4">
                   <div className="relative w-12 h-12 sm:w-24 sm:h-24 md:w-[100px] md:h-[100px] shrink-0">
                     <img
                       src="/images/present.png"
