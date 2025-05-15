@@ -56,9 +56,9 @@ function App() {
       <div className="w-full min-h-screen bg-custom-bg bg-cover bg-center flex flex-col justify-center items-center px-4 py-8">
         <div className="w-full h-screen flex justify-center items-center mt-20">
           <div className="w-full max-w-7xl flex justify-center items-center relative">
-            <div className="flex flex-col gap-10 w-6/7 lg:w-1/3 z-10 ">
+            <div className="flex flex-col gap-10 w-full lg:w-1/3 z-10 ">
               <div className="flex flex-col gap-2">
-                <div className="flex  flex-col w-full rounded-xl bg-purple-500/40 text-white shadow-lg overflow-hidden py-1 px-4 items-center gap-2">
+                <div className="flex flex-col w-full rounded-xl bg-purple-500/40 text-white shadow-lg overflow-hidden py-1 px-4 items-center gap-2">
                   <p className="text-center">promo</p>
                   <p className="text-center text-3xl font-bold">WELCOMEX5</p>
                 </div>
