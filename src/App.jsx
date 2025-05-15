@@ -66,12 +66,12 @@ function App() {
                   <img
                     src="/images/present.png"
                     alt="Gift"
-                    className="w-max h-max rotate-[20deg] absolute left-[-30px] bottom-[-20px]"
+                    className="w-max h-max rotate-[20deg] absolute bottom-[-20px]"
                   />
                 </div>
                 <div className="flex flex-col justify-center text-sm sm:text-xl">
                   <p>
-                    250 <span className="font-bold">FREE</span> Games
+                    250 <span className="font-bold">FREE</span> Spins
                   </p>
                   <p>
                     + 5X <span className="font-bold">MULTIPLIER</span>
