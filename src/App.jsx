@@ -93,7 +93,7 @@ function App() {
                 </button>
               </div>
             </div>
-            <div className=" absolute top-[-250px] sm:top-[-370px] sm:flex w-3/5 md:h-[500px]  lg:w-1/2 justify-center items-center z-0 ">
+            <div className=" absolute top-[-260px] sm:top-[-370px] sm:flex w-3/5 md:h-[500px]  lg:w-1/2 justify-center items-center z-0 ">
               <img
                 className="h-full sm:h-[300px] md:h-[400px] lg:h-[700px] object-contain"
                 src="/images/cat.png"
