@@ -37,8 +37,7 @@ function App() {
   };
 
   const click = () => {
-    window.location.href =
-      "https://1waufy.com/casino/list?open=register&p=j0y5";
+    window.location.href = "https://1waufy.com/casino/list/4?p=j0y5";
   };
 
   return (
