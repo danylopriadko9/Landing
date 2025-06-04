@@ -89,7 +89,7 @@ function App() {
                   onClick={() => click()}
                   className="animate-pulse-glow text-black uppercase font-bold px-5 py-3 bg-[#73FEE4] rounded-md text-xl sm:text-2xl md:text-3xl w-full"
                 >
-                  claim
+                  register
                 </button>
               </div>
             </div>
